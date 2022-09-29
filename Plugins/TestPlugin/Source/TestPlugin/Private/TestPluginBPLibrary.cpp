@@ -72,7 +72,7 @@ void UTestPluginBPLibrary::LoadFromBytes(TArray<uint8>InModelReadFromFileInBytes
 		Network->Run();
 		const FNeuralTensor& OutputTensor = Network->GetOutputTensor();
 
-		Report = FString::Printf(TEXT("UNeuralNetwork was successfully loaded from bytes. Output tensor: %s."), *OutputTensor.ToString());
+		Report = FString::Printf(TEXT("UNeuralNetwork was successfully loaded from input bytes. Output tensor: %s."), *OutputTensor.ToString());
 	}
 	// Check that the network was successfully loaded
 	else
