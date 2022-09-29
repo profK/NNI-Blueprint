@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\ProfK_RA\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"E:\\ProfK_RA\\MyProject\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
+		"E:\\ProfK_RA\\MyProject\\Source\\MyProject.Target.cs",
+		"E:\\ProfK_RA\\MyProject\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ProfK_RA\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
+"E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.gen.cpp.obj"
+"E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Default.rc2.res"
+/OUT:"E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\UnrealEditor-TestPlugin.lib"
