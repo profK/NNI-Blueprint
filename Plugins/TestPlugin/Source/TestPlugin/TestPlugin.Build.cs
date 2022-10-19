@@ -27,6 +27,7 @@ public class TestPlugin : ModuleRules
 			{
 				"Core",
                 "NeuralNetworkInference",
+				"ONNXBuilderLibrary"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
@@ -40,6 +41,7 @@ public class TestPlugin : ModuleRules
 				"Slate",
 				"SlateCore",
 				"NeuralNetworkInference",
+                "ONNXBuilderLibrary",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
