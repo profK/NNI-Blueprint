@@ -1,17 +1,17 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "e:\\profk_ra\\myproject\\source\\myproject\\myprojectgamemodebase.cpp",
+        "Source": "d:\\projects\\ue5\\nni-blueprint\\source\\myproject\\myprojectgamemodebase.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\profk_ra\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\projects\\ue5\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "e:\\profk_ra\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
-            "e:\\profk_ra\\myproject\\source\\myproject\\myprojectgamemodebase.h",
-            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
-            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
-            "e:\\profk_ra\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myprojectgamemodebase.generated.h"
+            "d:\\projects\\ue5\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "d:\\projects\\ue5\\nni-blueprint\\source\\myproject\\myprojectgamemodebase.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\projects\\ue5\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myprojectgamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

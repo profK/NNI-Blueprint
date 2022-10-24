@@ -1,15 +1,15 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "e:\\profk_ra\\myproject\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\development\\testplugin\\module.testplugin.gen.cpp",
+        "Source": "d:\\projects\\ue5\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\development\\testplugin\\module.testplugin.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\profk_ra\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\projects\\ue5\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "e:\\profk_ra\\myproject\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\development\\testplugin\\definitions.testplugin.h",
-            "e:\\profk_ra\\myproject\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testplugin.init.gen.cpp",
-            "e:\\profk_ra\\myproject\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.gen.cpp",
-            "e:\\profk_ra\\myproject\\plugins\\testplugin\\source\\testplugin\\public\\testpluginbplibrary.h",
-            "e:\\profk_ra\\myproject\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.generated.h"
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\development\\testplugin\\definitions.testplugin.h",
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testplugin.init.gen.cpp",
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.gen.cpp",
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\testplugin\\source\\testplugin\\public\\testpluginbplibrary.h",
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

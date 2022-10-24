@@ -1,6 +1,6 @@
-E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp
+D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp
 /I .
-/I E:\ProfK_RA\MyProject\Plugins\TestPlugin\Source\TestPlugin\Private
+/I D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Source\TestPlugin\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -252,9 +252,16 @@ E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\D
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\TestPlugin
-/I E:\ProfK_RA\MyProject\Plugins\TestPlugin\Source
-/I E:\ProfK_RA\MyProject\Plugins\TestPlugin\Source\TestPlugin\Public
+/I ..\Plugins\Experimental\NNI\Intermediate\Build\Win64\UnrealEditor\Inc\NeuralNetworkInference
+/I ..\Plugins\Experimental\NNI\Source
+/I ..\Plugins\Experimental\NNI\Source\NeuralNetworkInference\Public
+/I ..\Plugins\Experimental\NNI\Source\Private
+/I ..\Plugins\Experimental\NNI\Source\Private\NeuralNetworkInferenceProfiling\Public
+/I ..\Plugins\Experimental\NNI\Intermediate\Build\Win64\UnrealEditor\Inc\ModelProto
+/I ThirdParty\Windows
+/I D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\TestPlugin
+/I D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Source
+/I D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Source\TestPlugin\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -269,18 +276,19 @@ E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\D
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\ProfK_RA\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Definitions.TestPlugin.h"
-/Yu"E:\ProfK_RA\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\ProfK_RA\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
-/sourceDependencies E:\ProfK_RA\MyProject\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.json
+/I ThirdParty\Windows\PIX\include
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\projects\UE5\NNI-Blueprint\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Definitions.TestPlugin.h"
+/Yu"D:\projects\UE5\NNI-Blueprint\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\projects\UE5\NNI-Blueprint\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
+/sourceDependencies D:\projects\UE5\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.json
 /Zc:inline
 /nologo
 /Oi

@@ -25,10 +25,7 @@
 		{
 			"Name": "NeuralNetworkInference",
 			"Enabled": true
-		},
-		{
-			"Name": "ONNXBuilderLibrary",
-			"Enabled": true
 		}
+		
 	]
 }

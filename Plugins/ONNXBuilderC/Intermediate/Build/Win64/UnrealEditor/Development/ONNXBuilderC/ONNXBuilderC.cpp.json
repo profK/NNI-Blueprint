@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\ue5\\nni-blueprint\\plugins\\onnxbuilderc\\source\\onnxbuilderc\\private\\onnxbuilderc.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\ue5\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\onnxbuilderc\\intermediate\\build\\win64\\unrealeditor\\development\\onnxbuilderc\\definitions.onnxbuilderc.h",
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\onnxbuilderc\\source\\onnxbuilderc\\public\\onnxbuilderc.h",
+            "d:\\projects\\ue5\\nni-blueprint\\plugins\\onnxbuilderc\\source\\onnxbuilderc\\thirdparty\\include\\onnxbuilder.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

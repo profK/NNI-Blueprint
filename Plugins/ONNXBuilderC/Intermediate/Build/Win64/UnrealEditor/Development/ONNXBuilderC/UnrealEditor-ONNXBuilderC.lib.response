@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ONNXBuilderC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\projects\UE5\NNI-Blueprint\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\projects\UE5\NNI-Blueprint\Plugins\ONNXBuilderC\Intermediate\Build\Win64\UnrealEditor\Development\ONNXBuilderC\ONNXBuilderC.cpp.obj"
+"D:\projects\UE5\NNI-Blueprint\Plugins\ONNXBuilderC\Intermediate\Build\Win64\UnrealEditor\Development\ONNXBuilderC\Default.rc2.res"
+/OUT:"D:\projects\UE5\NNI-Blueprint\Plugins\ONNXBuilderC\Intermediate\Build\Win64\UnrealEditor\Development\ONNXBuilderC\UnrealEditor-ONNXBuilderC.lib"

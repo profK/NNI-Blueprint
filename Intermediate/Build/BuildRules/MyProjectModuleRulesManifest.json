@@ -1,9 +1,16 @@
 {
 	"SourceFiles": [
-		"E:\\ProfK_RA\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
-		"E:\\ProfK_RA\\MyProject\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
-		"E:\\ProfK_RA\\MyProject\\Source\\MyProject.Target.cs",
-		"E:\\ProfK_RA\\MyProject\\Source\\MyProjectEditor.Target.cs"
+		"D:\\projects\\UE5\\NNI-Blueprint\\Source\\MyProject\\MyProject.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\ONNXBuilderC\\Source\\ONNXBuilderC\\ONNXBuilderC.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Source\\MyProject.Target.cs",
+		"D:\\projects\\UE5\\NNI-Blueprint\\Source\\MyProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
